@@ -120,6 +120,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 
 ## Alexa Top 10,000 on Cloudflare DNS:
 
+- [bloganchoi.com](https://bloganchoi.com/)
 - [upwork.com](http://upwork.com)
 - [codepen.io](http://codepen.io)
 - [fiverr.com](http://fiverr.com)
